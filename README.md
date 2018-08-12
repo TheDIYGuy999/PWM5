@@ -34,9 +34,8 @@ See pictures
 ![](https://github.com/TheDIYGuy999/PWM5/blob/master/1.jpg)
 ![](https://github.com/TheDIYGuy999/PWM5/blob/master/2.jpg)
 ![](https://github.com/TheDIYGuy999/PWM5/blob/master/3.jpg)
-![](https://github.com/TheDIYGuy999/PWM5/blob/master/Top.jpg)
-![](https://github.com/TheDIYGuy999/PWM5/blob/master/Bottom.jpg)
-![](https://github.com/TheDIYGuy999/PWM5/blob/master/Board.png)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Top.png)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Bottom.png)
 ![](https://github.com/TheDIYGuy999/PWM5/blob/master/Schematic.png)
 
 Also have a look at the pdf schematic.
