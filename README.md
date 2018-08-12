@@ -1,6 +1,7 @@
 # This is an Arduino "PWM5" Solar Charge Controller
 
 It was originally invented by Julian Ilett: https://www.youtube.com/watch?v=AobcNhLG_Xw&list=PLjzGSu1yGFjWa5BEHgX5UUrSexppett3W
+
 This Arduino version uses a similar layout as arduined.eu: https://www.arduined.eu/arduino-solar-charge-controller/
 
 After I designed and built a couple of own MPPT solar chargers (see my other Repositories here), I wanted to try this "classic" PWM design.
@@ -30,13 +31,13 @@ New in V 1.0:
 ## Usage
 
 See pictures
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/1.jpg)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/2.jpg)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/3.jpg)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/Top.jpg)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/Bottom.jpg)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/Board.png)
-![](https://github.com/TheDIYGuy999/MPPT_Buck_Converter_Synchronous/blob/master/Schematic.png)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/1.jpg)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/2.jpg)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/3.jpg)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Top.jpg)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Bottom.jpg)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Board.png)
+![](https://github.com/TheDIYGuy999/PWM5/blob/master/Schematic.png)
 
 Also have a look at the pdf schematic.
 
